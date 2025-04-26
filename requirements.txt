@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymilvus
+sentence-transformers
+openai
+requests
+docker
+python-dotenv
